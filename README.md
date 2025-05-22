@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and professional journey as a Computer Science and Engineering student.
 
-![Portfolio Preview](https://raw.githubusercontent.com/ViratKumarr/portfolio-responsive-complete-main/master/assets/img/about.jpg)
+![Portfolio Preview](https://github.com/ViratKumarr/portfolio-responsive-complete-main/blob/d6b6283df4bab775735f1080dd4e6464a48a54ac/portfolio_virat_responsive.png)
 
 ## 🌟 Features
 
